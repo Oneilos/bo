@@ -1,4 +1,4 @@
-GesHome
+MetaSoft
 =======
 
-Back-end de gestion pour chez soi
+Un soft pour faire des softs
