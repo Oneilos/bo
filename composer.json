@@ -1,0 +1,8 @@
+{
+    "name": "oneilos/MetaSoft",
+    "autoload": {
+        "psr-0" : {
+            "Oneilos\\MetaSoft" : "src"
+        }
+    }
+}
