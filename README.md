@@ -1,4 +1,4 @@
-MetaSoft
+BO
 =======
 
-Un soft pour faire des softs
+Mon bo
