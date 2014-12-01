@@ -1,0 +1,5 @@
+napps_bo:
+    resource: "@NappsBoBundle/Controller/"
+    type:     annotation
+    prefix:   /bo/
+
